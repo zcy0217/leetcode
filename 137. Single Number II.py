@@ -13,7 +13,7 @@ class Solution:
         for num in num:
             if num!=0: #輸出num裡面不等於0的數字
                 return num
-#%%
+
 #第二次答案
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
